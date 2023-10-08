@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-10-08T07:25:52.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="GaZQOIAHSEPlcyf3_sVc" version="22.0.0" type="github">
+  <diagram name="第 1 页" id="U7zrIlraPphJvp50B91f">
+    <mxGraphModel dx="1194" dy="956" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://cdn-0.plantuml.com/plantuml/png/SoWkIImgAStDuKeiBSbFJ2x9B4iiILN8p-C2ilEB54ABKukuG8I2hfs2euALWaj-U7vHDfSZYEy4v3iNfG8r1AKMbgOMbsXeSZc199pX2e4YHQabfKLv2lxP62oWchnKBeVKl1IW0m00;" parent="1" vertex="1">
+          <mxGeometry x="120" y="-233" width="588.06" height="614" as="geometry" />
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-8" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=default;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="93.03" y="-245" width="656" height="175" as="geometry" />
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-9" value="1 参与者" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="345" y="-249" width="160" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-10" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="83" y="88" as="sourcePoint" />
+            <mxPoint x="276" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-11" value="4 激活期" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-26" y="65" width="99" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="8" as="sourcePoint" />
+            <mxPoint x="158" y="-2" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-13" value="2 生命线" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="-23" y="-19" width="99" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-16" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="805" y="4" as="sourcePoint" />
+            <mxPoint x="659" y="39.91829527994173" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rqR8w_eKImCVrCKkvMO_-17" value="3 消息" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="791" y="-29" width="99" height="49" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
